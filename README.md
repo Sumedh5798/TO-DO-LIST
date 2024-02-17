@@ -1,6 +1,6 @@
 # TO-DO-LIST
 
-# Created a to do list using HTML,CSS,Javascript where one can create a list of things person wants to add ,can put check mark if its complete and delete if he wants to add new task.
+# Created a to do list using HTML,CSS,JavaScript where one can create a list of things person wants to add ,can put check mark if its complete and delete if he wants to add new task.
 ![SharedScreenshot_1](https://github.com/Sumedh5798/TO-DO-LIST/assets/142483238/0f408776-fd46-43c8-926a-e063582f2313)
 # You can add the task that you want on list on typing on textbox
 ![SharedScreenshot_2](https://github.com/Sumedh5798/TO-DO-LIST/assets/142483238/5c5ab285-3a19-4b95-8457-b93e3c57d4a2)
